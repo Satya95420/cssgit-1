@@ -1,0 +1,69 @@
+.p1{
+    color: black;
+    background-color:red ;
+}
+.p2{
+    color: black;
+    background-color: yellow;
+}
+.p3{
+    color: white;
+    background-color: blue;
+}
+.p4{
+    color: white;
+    background-color: green;
+}
+.pp1{
+    color: black;
+    background-color:gold ;
+}
+.pp2{
+    color: black;
+    background-color: aqua;
+}
+.pp3{
+    color: white;
+    background-color: blueviolet;
+}
+.pp4{
+    color: white;
+    background-color: black;
+}
+.p5{
+    color: black ;
+    background-color: Chocolate ;
+}
+.p6{
+    color: black;
+    background-color: white;
+}
+.p7{
+    color: black;
+    background-color: Cornsilk;
+}
+.p8{
+    color: white;
+    background-color: darkblue;
+}
+.pp5{
+    color: black;
+    background-color: orange ;
+}
+.pp6{
+    color: black;
+    background-color: deeppink;
+}
+.pp7{
+    color: white;
+    background-color: DimGrey;
+}
+.pp8{
+    color: white;
+    background-color: brown;
+}
+td{
+    width: 300px; height: 150px;
+    font-size: 20PX;
+    text-transform: uppercase;
+}
